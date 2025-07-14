@@ -30,7 +30,7 @@ All detected events are logged, screenshots and video clips are saved, and short
 
 | Technology | Use |
 |------------|-----|
-| Python 3.x | Core language |
+| Python 3.12 | Core language |
 | OpenCV     | Video processing and motion detection |
 | MediaPipe  | Face mesh and detection |
 | NumPy      | Calculations |
