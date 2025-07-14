@@ -130,5 +130,4 @@ This tool is meant for educational and demonstration purposes. It is not a certi
 ## 📜 License
 
 This project is open-source under the [MIT License](LICENSE).
-
-```
+---
