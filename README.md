@@ -43,8 +43,8 @@ All detected events are logged, screenshots and video clips are saved, and short
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/cheat-detector.git
-cd cheat-detector
+git clone https://github.com/Thanatos9404/Cheating-Detection-Proctoring-App
+cd Cheating-Detection-Proctoring-App
 ````
 
 ### 2. Install dependencies
