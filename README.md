@@ -1,4 +1,4 @@
-# 👁️ Cheat Detector – Proctoring System using OpenCV & MediaPipe
+# 👁️ Cheating Detection - Proctoring App
 
 A real-time webcam-based cheating detection system for **online exams** using Python, OpenCV, and MediaPipe. It monitors suspicious behavior like:
 - Talking
